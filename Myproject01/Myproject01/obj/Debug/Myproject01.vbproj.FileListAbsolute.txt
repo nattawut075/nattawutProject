@@ -1,0 +1,13 @@
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\bin\Debug\Myproject01.exe.config
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\bin\Debug\Myproject01.exe
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\bin\Debug\Myproject01.pdb
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\bin\Debug\Myproject01.xml
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.vbprojResolveAssemblyReference.cache
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Form1.resources
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Resources.resources
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.vbproj.GenerateResource.Cache
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.exe
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.xml
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.pdb
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject1.resources
+E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject2.resources
