@@ -11,3 +11,17 @@ E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.xml
 E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.pdb
 E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject1.resources
 E:\ปี2\เทอม2\VB\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject2.resources
+D:\nattawutProject\Myproject01\Myproject01\bin\Debug\Myproject01.exe.config
+D:\nattawutProject\Myproject01\Myproject01\bin\Debug\Myproject01.exe
+D:\nattawutProject\Myproject01\Myproject01\bin\Debug\Myproject01.pdb
+D:\nattawutProject\Myproject01\Myproject01\bin\Debug\Myproject01.xml
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.vbprojResolveAssemblyReference.cache
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.Form1.resources
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.Resources.resources
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject1.resources
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.Myproject2.resources
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.frmAssign3.resources
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.vbproj.GenerateResource.Cache
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.exe
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.xml
+D:\nattawutProject\Myproject01\Myproject01\obj\Debug\Myproject01.pdb

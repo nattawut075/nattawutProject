@@ -106,6 +106,12 @@
     <Compile Include="Myproject2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Myproject3.Designer.vb">
+      <DependentUpon>Myproject3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Myproject3.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
@@ -122,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Myproject2.resx">
       <DependentUpon>Myproject2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Myproject3.resx">
+      <DependentUpon>Myproject3.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
